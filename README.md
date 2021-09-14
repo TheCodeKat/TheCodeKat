@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @TheCodeKat
-- 👀 I’m interested in coding, drawing, and writing
-- 🌱 I’m currently learning how to develop Angular applications
-- 📫 How to reach me ...
+Hi there! My name is Yiz, I'm a mexican teenager who loves to code 🐱
+</br>I'm currently learning how to develop Angular apps 👀
 
 <!---
 TheCodeKat/TheCodeKat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
